@@ -3,7 +3,7 @@ const setting = [
     setting: {
       number_of_image_per_product: "5",
       shop_name: "KachaBazar",
-      address: "59 Station Rd, Purls Bridge, United Kingdom",
+      address: "B-65, Anmol Vatika Jabalpur, Madhya Pradesh",
       company_name: "HtmlLover ltd",
       vat_number: "47589",
       post_code: "2030",
